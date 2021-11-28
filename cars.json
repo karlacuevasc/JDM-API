@@ -8,21 +8,24 @@
                 "make": "Honda",
                 "model": "Beat",
                 "year": 1992,
-                "color": "N/A"
+                "color": "N/A",
+                "image": "N/A"
             },
             {
                 "id": 2,
                 "make": "Honda",
                 "model": "Prelude",
                 "year": 1992,
-                "color": "N/A"
+                "color": "N/A",
+                "image": "N/A"
             },
             {
                 "id": 3,
                 "make": "Honda",
                 "model": "Accord SIR",
                 "year": 1992,
-                "color": "N/A"
+                "color": "N/A",
+                "image": "N/A"
             }
         ]
     }
