@@ -2,31 +2,78 @@
 
 {
     "cars": {
-        "Honda": [
+        "Mazda": [
             {
                 "id": 1,
-                "make": "Honda",
-                "model": "Beat",
-                "year": 1992,
+                "make": "Mazda",
+                "model": "RX7 FB",
+                "year": 1980,
                 "color": "N/A",
                 "image": "N/A"
             },
             {
                 "id": 2,
-                "make": "Honda",
-                "model": "Prelude",
-                "year": 1992,
+                "make": "Mazda",
+                "model": "RX7 FC3S",
+                "year": 1985,
+                "color": "N/A",
+                "image": "N/A"
+            },
+
+            {
+                "id": 3,
+                "make": "Mazda",
+                "model": "RX7 FD",
+                "year": 1993,
+                "color": "N/A",
+                "image": "N/A"
+            },
+            {
+                "id": 4,
+                "make": "Mazda",
+                "model": "MX-5 Miata",
+                "year": 1990,
+                "color": "N/A",
+                "image": "N/A"
+            },
+            {
+        "Nissan": [
+            {
+                "id": 1,
+                "make": "Nissan",
+                "model": "180SX",
+                "year": 1996,
+                "color": "N/A",
+                "image": "N/A"
+            },
+            {
+                "id": 2,
+                "make": "Nissan",
+                "model": "R32 Skyline GT-R",
+                "year": 1990,
                 "color": "N/A",
                 "image": "N/A"
             },
             {
                 "id": 3,
-                "make": "Honda",
-                "model": "Accord SIR",
-                "year": 1992,
+                "make": "Nissan",
+                "model": "R33 Skyline GT-R",
+                "year": 1995,
+                "color": "N/A",
+                "image": "N/A"
+            },
+            {
+                "id": 4,
+                "make": "Nissan",
+                "model": "R34 Skyline GT-R",
+                "year": 2000,
                 "color": "N/A",
                 "image": "N/A"
             }
+
+                ]
+            }
         ]
     }
+
 }
