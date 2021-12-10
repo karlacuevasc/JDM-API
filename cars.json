@@ -41,21 +41,13 @@
             {
                 "id": 1,
                 "make": "Nissan",
-                "model": "180SX",
-                "year": 1996,
-                "color": "N/A",
-                "image": "N/A"
-            },
-            {
-                "id": 2,
-                "make": "Nissan",
                 "model": "R32 Skyline GT-R",
                 "year": 1990,
                 "color": "N/A",
                 "image": "N/A"
             },
             {
-                "id": 3,
+                "id": 2,
                 "make": "Nissan",
                 "model": "R33 Skyline GT-R",
                 "year": 1995,
@@ -63,14 +55,37 @@
                 "image": "N/A"
             },
             {
-                "id": 4,
+                "id": 3,
                 "make": "Nissan",
                 "model": "R34 Skyline GT-R",
                 "year": 2000,
                 "color": "N/A",
                 "image": "N/A"
+            },
+            {
+                "id": 4,
+                "make": "Nissan",
+                "model": "300ZX",
+                "year": 1989,
+                "color": "N/A",
+                "image": "N/A"
+            },
+            {
+                "id": 5,
+                "make": "Nissan",
+                "model": "300ZX",
+                "year": 1989,
+                "color": "N/A",
+                "image": "N/A"
+            },
+            {
+                "id": 6,
+                "make": "Nissan",
+                "model": "180SX",
+                "year": 1994,
+                "color": "N/A",
+                "image": "N/A"
             }
-
                 ]
             }
         ]
