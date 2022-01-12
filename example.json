@@ -37,7 +37,7 @@
         "image": "https://i.pinimg.com/736x/53/16/d9/5316d9f179b408d24d4c0306ef130dea.jpg"
       },
       {
-        "id": 5,
+        "id": 1,
         "make": "Nissan",
         "model": "R32 Skyline GT-R",
         "year": 1990,
@@ -45,7 +45,7 @@
         "image": "https://i.pinimg.com/originals/c3/cc/e9/c3cce97fc1c63ce64e5783ebf4811dc2.jpg"
       },
       {
-        "id": 6,
+        "id": 2,
         "make": "Nissan",
         "model": "R33 Skyline GT-R",
         "year": 1995,
@@ -53,7 +53,7 @@
         "image": "https://www.supercars.net/blog/wp-content/uploads/2016/02/NISSAN-Skyline-GT-R-V-Spec-R33-4039_12.jpg"
       },
       {
-        "id": 7,
+        "id": 3,
         "make": "Nissan",
         "model": "R34 Skyline GT-R",
         "year": 2000,
@@ -61,7 +61,7 @@
         "image": "https://static.wheels.ae/imgs/5452_WH_190126_MW_Anil_GTR_Stefan01-_Read-Only_-large.jpg"
       },
       {
-        "id": 8,
+        "id": 4,
         "make": "Nissan",
         "model": "300ZX",
         "year": 1989,
@@ -69,7 +69,7 @@
         "image": "https://i.pinimg.com/736x/6e/9a/5a/6e9a5adb30925c094b8cc36cbdb31406--baby-blue-blue-and.jpg"
       },
       {
-        "id": 9,
+        "id": 5,
         "make": "Nissan",
         "model": "180SX",
         "year": 1994,
