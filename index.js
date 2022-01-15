@@ -1,4 +1,5 @@
 const express = require('express');
+var cors = require('cors')
 const app = express();
 const PORT = process.env.PORT || 3000;
 const fs = require('fs')
@@ -9,6 +10,7 @@ app.listen(
 )
 
 app.use(express.json())
+app.use(cors())
 
 
 app.get("/", (req, res) => {
